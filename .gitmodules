@@ -1,0 +1,3 @@
+[submodule "Software/esp_utils"]
+	path = Software/esp_utils
+	url = https://github.com/ProrokWielki/esp_mqtt_helpers.git
